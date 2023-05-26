@@ -1,2 +1,5 @@
 lime == 0.2.0.1
 streamlit == 1.22.0
+emoji == 2.2.0
+spacy == 3.5.2
+https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.5.0/en_core_web_lg-3.5.0.tar.gz#egg=en_core_web_lg
