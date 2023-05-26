@@ -1,5 +1,2 @@
-pickle
-os
-lime
-sklearn
-streamlit
+lime == 0.2.0.1
+streamlit == 1.22.0
